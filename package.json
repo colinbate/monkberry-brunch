@@ -1,0 +1,31 @@
+{
+  "name": "monkberry-brunch",
+  "version": "1.0.0",
+  "description": "A monkberry template compiler for Brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbate/monkberry-brunch.git"
+  },
+  "keywords": [
+    "brunch",
+    "brunch-plugin",
+    "plugin",
+    "monkberry",
+    "monk",
+    "berry",
+    "template"
+  ],
+  "author": "Colin Bate <colin@colinbate.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinbate/monkberry-brunch/issues"
+  },
+  "homepage": "https://github.com/colinbate/monkberry-brunch#readme",
+  "dependencies": {
+    "monkberry": "^4.0.4"
+  }
+}
